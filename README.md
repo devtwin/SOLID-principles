@@ -64,8 +64,11 @@ How does this principle help us to build better software?
  
 #### Resources:
  https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/
+ 
  https://www.baeldung.com/solid-principles
+ 
  https://www.javatpoint.com/solid-principles-java
+ 
  https://www.springboottutorial.com/software-design-solid-principles
  
-  
+ #### Thanks for your time  ❤️ 😄 👍 
