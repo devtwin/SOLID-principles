@@ -1,2 +1,2 @@
-# SOLID-principles
-Design principles 
+
+# Object Oriented Design principles
